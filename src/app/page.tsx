@@ -2,6 +2,6 @@ import Image from 'next/image'
 
 export default function Home() {
   return (
-    <div>i am poor3</div>
+    <div>i am poor4</div>
   )
 }
